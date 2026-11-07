@@ -1,6 +1,6 @@
 # Azimutal
 
-> **Version alpha, pour essayer.** Azimutal est en test : elle peut contenir des erreurs, planter, changer d'une version à l'autre, ou produire des cartes à vérifier avant tout usage important. **Ne comptez pas sur elle pour un travail sans copie de sauvegarde**, et gardez toujours vos fichiers d'origine (Azimutal ne les modifie pas, mais un projet peut être mal enregistré). Vos remarques sont les bienvenues.
+> **Version 1.1.5, première version stable.** Azimutal peut encore contenir des erreurs, planter, changer d'une version à l'autre, ou produire des cartes à vérifier avant tout usage important. **Ne comptez pas sur elle pour un travail sans copie de sauvegarde**, et gardez toujours vos fichiers d'origine (Azimutal ne les modifie pas, mais un projet peut être mal enregistré). Vos remarques sont les bienvenues.
 
 Azimutal est une application de cartographie pour Mac, pensée pour l'enseignement : on prépare une carte thématique, on l'imprime ou on l'exporte en PDF, SVG ou PNG. Elle fonctionne **hors ligne**, sans compte, sans serveur et sans télémétrie.
 

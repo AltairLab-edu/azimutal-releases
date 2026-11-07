@@ -28,9 +28,9 @@ Une carte imprimée n'est pas soumise au partage à l'identique. Si vous **expor
 
 Azimutal inclut des composants libres, chacun sous sa licence, reproduits dans `THIRD_PARTY_NOTICES.md`. Ces conditions ne les remplacent pas.
 
-## 5. Version alpha et aucune garantie
+## 5. Aucune garantie
 
-Les versions publiées actuellement sont des **versions alpha, destinées à l'essai** : elles peuvent contenir des erreurs, changer sans préavis ou être retirées. N'y confiez pas de travail irremplaçable sans copie de sauvegarde.
+Azimutal est un logiciel en évolution : une version peut contenir des erreurs, changer sans préavis ou être retirée. N'y confiez pas de travail irremplaçable sans copie de sauvegarde.
 
 Azimutal est fournie « telle quelle ». L'auteur ne garantit pas qu'elle soit exempte d'erreurs, ni que les cartes conviennent à un usage précis (navigation, décision légale ou d'ingénierie, etc.). Dans la mesure permise par la loi, l'auteur n'est pas responsable des dommages liés à son usage. Les cartes d'Azimutal sont pédagogiques : vérifiez les données avant tout usage critique.
 
