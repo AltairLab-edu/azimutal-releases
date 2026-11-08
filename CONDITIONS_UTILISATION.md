@@ -42,4 +42,4 @@ Azimutal ne collecte aucune donnée, n'a ni compte ni télémétrie, et ne se co
 
 L'auteur peut publier de nouvelles versions sous des conditions mises à jour ; celles de la version que vous avez installée restent valables pour elle.
 
-Contact : altairlab.support@gmail.com.
+Contact : page Contact du site d'Altaïr Lab, https://altairlab.vercel.app/contact.

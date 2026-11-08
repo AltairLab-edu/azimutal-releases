@@ -93,4 +93,4 @@ Sous Windows, la touche **Ctrl** remplace la touche ⌘ du Mac (Ctrl+K pour cher
 
 ## Signaler un problème
 
-Écrivez à **altairlab.support@gmail.com**. Indiquez la version d'Azimutal (menu Azimutal → À propos), votre système (version de macOS ou de Windows) et ce que vous faisiez.
+Utilisez la page **Contact** du site d'Altaïr Lab : https://altairlab.vercel.app/contact. Indiquez la version d'Azimutal (menu Azimutal → À propos), votre système (version de macOS ou de Windows) et ce que vous faisiez.
