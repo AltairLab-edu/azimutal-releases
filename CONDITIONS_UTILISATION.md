@@ -4,11 +4,11 @@ Azimutal © 2026 AltairLab. Tous droits réservés, sauf ce qui est accordé ci-
 
 ## 1. Ce que vous pouvez faire de l'application
 
-Vous êtes autorisé, **gratuitement**, à installer Azimutal sur vos propres Mac et à l'utiliser.
+Vous êtes autorisé, **gratuitement**, à installer Azimutal sur vos propres ordinateurs (Mac ou Windows) et à l'utiliser.
 
 Vous n'êtes pas autorisé à :
 
-- redistribuer Azimutal (copie du `.dmg`, hébergement sur un autre site) sans accord écrit de l'auteur (un usage en établissement scolaire peut être demandé à l'adresse de contact ci-dessous) : le lien de téléchargement officiel est celui d'AltairLab ;
+- redistribuer Azimutal (copie du `.dmg` ou du `.exe`, hébergement sur un autre site) sans accord écrit de l'auteur (un usage en établissement scolaire peut être demandé à l'adresse de contact ci-dessous) : le lien de téléchargement officiel est celui d'AltairLab ;
 - la modifier, la décompiler ou en extraire des éléments pour les réutiliser, sauf là où la loi l'autorise malgré cette clause ;
 - retirer ou masquer les mentions de sources imprimées automatiquement sur les cartes exportées (voir §3).
 
